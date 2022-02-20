@@ -19,4 +19,4 @@ The World's Leading Online Programming Learning Platform
 - 547.Friend Circle.cpp
 >
 ## Medium Prblem
-- 
+- 024.Swap Nodes in Pairs.cpp
